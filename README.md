@@ -1,2 +1,0 @@
-# BusBookerFrontend
-Created with CodeSandbox
