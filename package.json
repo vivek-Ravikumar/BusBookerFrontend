@@ -1,15 +1,15 @@
 {
-  "name": "react",
+  "name": "busbooker-github",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "4.10.2",
+    "@material-ui/icons": "4.9.1",
     "react": "16.12.0",
     "react-dom": "16.12.0",
+    "react-router-dom": "5.2.0",
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
